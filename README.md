@@ -72,6 +72,6 @@ Schedule promotions around peak shopping hours.
 
 ## Full Report
 For detailed cleaning steps, DAX formulas, and full business analysis, see the full report:
-
+[Full Report](./Sales%20Analysis%20Report.pdf)
 
 
